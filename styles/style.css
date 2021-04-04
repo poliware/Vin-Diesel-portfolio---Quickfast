@@ -1,0 +1,81 @@
+header{
+  width: 100%;
+  background-image: url("../image/background3.jpg");
+  background-position: center bottom;
+  background-size: cover;
+  padding: 0;
+  position: relative;
+  height: 100vh;
+  min-height: 600px;
+  width: 100%;
+}
+.header-about{
+  width: 100%;
+  background-image: url("../image/background2.jpg");
+  background-position: center bottom;
+  background-size: cover;
+  padding: 0;
+  position: relative;
+  height: 100vh;
+  min-height: 600px;
+  width: 100%;
+}
+.header-align{
+  margin-top: 135px;
+  text-align: center;
+}
+
+.movies-figures{
+
+  /* width: 300px;
+  height: 200px; */
+  object-fit: cover;
+  display:inline;
+  float:center;
+    margin: 10px;
+
+}
+
+
+.movies-figure-all li{
+  /* width:220px; */
+  /* padding:5px; */
+  /* margin:10px; */
+  display:inline;
+  float:none;
+}
+
+.card{
+  display: inline-block;
+  max-width: 24rem;
+  max-height: 15rem;
+  border: none;
+}
+
+.social-media{
+  margin-top: 15px;
+  margin-bottom: 0%;
+  background-color: #adadadcf;
+  filter: grayscale(1);
+}
+
+.social-figure-all{
+  width: 5rem;
+  padding: 1rem;
+}
+
+.footer-config{
+  background-color:#212121cf;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+@media (min-width: 768px) {
+  
+}
+@media (min-width: 992px) {
+  
+}
+@media (min-width: 1200px) {
+  
+}
